@@ -1,0 +1,15 @@
+body{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.imagen1{
+    background-image: url(/clase3/img/lemon-pie.png);
+    background-size: cover;
+    height: 380px;
+    color: white;
+}
+.h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
